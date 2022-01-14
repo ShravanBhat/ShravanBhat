@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shravan Bhat.I completed B.E. in Computer Engineering in 2021. 
+- 👋 Hi, I’m Shravan Bhat.I completed B.E. in Computer Engineering in 2021. I have done 3 internships and many projects during my engineering.Check out my projects on my profile!
 - 👀 I’m interested in
 
   &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![Java](https://img.shields.io/badge/-Java-303030?style=flat-square&logo=Java)&ensp;
