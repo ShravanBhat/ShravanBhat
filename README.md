@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shravan Bhat.I completed B.E. in Computer Engineering in 2021. I have done 3 internships and many projects during my engineering.Check out my projects on my profile!
+- 👋 Hi, I’m Shravan Bhat.I completed B.E. in Computer Engineering in 2021. I have done 3 internships and many projects during my engineering. Currently working in AngelOne. Check out my projects on my profile!
 - 👀 I’m interested in
 
   &ensp;![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&ensp;![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)&ensp;![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&ensp;
