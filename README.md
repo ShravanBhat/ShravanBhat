@@ -1,21 +1,28 @@
-- 👋 Hi, I’m Shravan Bhat.I completed B.E. in Computer Engineering in 2021. I have done 3 internships and many projects during my engineering. Currently working in AngelOne. Check out my projects on my profile!
-- 👀 I’m interested in
+# 👋 Hi, I am Shravan Bhat
 
-  &ensp;![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&ensp;![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)&ensp;![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&ensp;
+I am a **Senior Software Engineer** specializing in **Golang**, **Kafka**, and **distributed systems**. Currently, I am at **Angel One**, where I architect scalable microservices and mission-critical financial platforms.
 
-- 🌱 I’m currently learning:
+- 🚀 **Professional Highlights**:
+    * Architected event-driven systems processing **8,000+ events/sec** using Go concurrency.
+    * Reduced system latency by **70%** through AWS cloud-native migrations.
+    * Winner of multiple awards, including the **CEO Club Award** and **Tech Titan Recognition**.
 
-  &ensp;![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&ensp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&ensp;
-- 📫 Reach me:
+- 💻 **Featured Projects**:
+    * **Natural Language SQL**: Built an AI-powered SQL agent that converts natural language into executable queries for **Postgres** and **MySQL** using Strategy and Factory design patterns.
+    * **Price Watcher**: Developed a concurrent price-monitoring service using **worker pools** capable of scraping **50+ URLs/sec**, integrated with a **Telegram bot** for automated alerts.
 
-  &ensp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shr1999/)&ensp;
+- 👀 **I am interested in**:
 
+&ensp;![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&ensp;![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&ensp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&ensp;![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&ensp;![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&ensp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&ensp;
 
-- I use these tools:
+- 🌱 **I am currently focusing on**:
+    * Advanced System Design (HLD/LLD).
+    * AI-driven development workflows using **Cursor**, **Claude**, and **ChatGPT**.
 
-  &ensp;![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&ensp;![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+- 🛠️ **I use these tools daily**:
 
-- Checkout my competitive coding profile on:
+&ensp;![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)&ensp;![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&ensp;![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)&ensp;![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)&ensp;
 
-  &ensp;[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/2017_shravan_bh1)&ensp;[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shravan1999)&ensp;
+- 📫 **Reach me**:
 
+&ensp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shr1999/)&ensp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanbhat6@gmail.com)&ensp;
